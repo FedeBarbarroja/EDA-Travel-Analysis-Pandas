@@ -17,7 +17,7 @@ Se analizaron distintos aspectos de la movilidad urbana en función del horario,
 -  Partido de origen y destino  
 -  Motivo del viaje  
 -  Medio de transporte  
-- ⏱ Duración del viaje  
+-  Duración del viaje  
 -  Distancia del viaje  
 
 ---
@@ -48,4 +48,6 @@ Se analizaron distintos aspectos de la movilidad urbana en función del horario,
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
+## ⚙️ Requisitos
+- Librerias: Pandas, Seaborn, Matplotlib, Numpy
 
