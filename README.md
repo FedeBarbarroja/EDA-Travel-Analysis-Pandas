@@ -35,11 +35,10 @@ Se analizaron distintos aspectos de la movilidad urbana en función del horario,
 
 ## 📁 Contenido del Repositorio
 
-- `data/` → Conjunto de datos utilizado (si es público).
-- `EDA_Travel_Analysis.ipynb` → Notebook de análisis en Python (usando Pandas).
-- `EDA_Travel_Analysis.pdf` → Informe final del análisis.
-- `README.md` → Este archivo.
-
+- `data/` → Archivos útiles.
+- `Archivo_código` → Notebook de análisis en Python/Jupyter.
+- `Informe` → Informe final del análisis.
+- 
 ---
 
 ## 🛠️ Herramientas utilizadas
@@ -50,9 +49,4 @@ Se analizaron distintos aspectos de la movilidad urbana en función del horario,
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
-
-## 📄 Informe
-Podés ver el informe completo en el siguiente enlace:  
-📎 [EDA_Travel_Analysis.pdf](informe/EDA_Travel_Analysis.pdf)
-
 
