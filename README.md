@@ -38,7 +38,6 @@ Se analizaron distintos aspectos de la movilidad urbana en función del horario,
 - `data/` → Archivos útiles.
 - `Archivo_código` → Notebook de análisis en Python/Jupyter.
 - `Informe` → Informe final del análisis.
-- 
 ---
 
 ## 🛠️ Herramientas utilizadas
