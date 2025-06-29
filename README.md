@@ -1,6 +1,5 @@
-# 🧳 EDA Travel Analysis with Pandas
+#  EDA Travel Analysis with Pandas
 
-## 👤 Autor
 Federico Barbarroja  
 Proyecto realizado en la Materia Fundamentos de ciencia de datos | Tecnicatura Universitaria en Inteligencia Artificial – FCEIA – UNR
 
