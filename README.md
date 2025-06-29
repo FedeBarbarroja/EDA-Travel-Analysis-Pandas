@@ -14,11 +14,11 @@ Se analizaron distintos aspectos de la movilidad urbana en función del horario,
 
 ## 📊 Variables Analizadas
 
-- 🧭 Partido de origen y destino  
-- 🧍‍♂️ Motivo del viaje  
-- 🚍 Medio de transporte  
-- ⏱️ Duración del viaje  
-- 📏 Distancia del viaje  
+-  Partido de origen y destino  
+-  Motivo del viaje  
+-  Medio de transporte  
+- ⏱ Duración del viaje  
+-  Distancia del viaje  
 
 ---
 
@@ -55,7 +55,4 @@ Se analizaron distintos aspectos de la movilidad urbana en función del horario,
 Podés ver el informe completo en el siguiente enlace:  
 📎 [EDA_Travel_Analysis.pdf](informe/EDA_Travel_Analysis.pdf)
 
----
 
-## ⚖️ Licencia
-Este proyecto se encuentra bajo la licencia MIT.
