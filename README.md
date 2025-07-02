@@ -17,8 +17,8 @@ Se analizaron distintos aspectos de la movilidad urbana en función del horario,
 -  Partido de origen y destino  
 -  Motivo del viaje  
 -  Medio de transporte  
--  Duración del viaje  
--  Distancia del viaje  
+-  Duración del viaje (Min)
+-  Distancia del viaje (Km)
 
 ---
 
